@@ -12,4 +12,17 @@ func main() {
 		i ++
 	}
 
+	// do while循环
+	var j int = 1
+	for {
+		fmt.Println("dfefe")
+		j ++
+		if j > 10 {
+			break 
+		}
+	}
+
+
+
+
 }
